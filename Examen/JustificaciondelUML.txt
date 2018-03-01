@@ -1,0 +1,4 @@
+Utilize una estructura la cual se puede resumir en la mitad observer y Decorator.
+Estos dos me permitieron el elegir que tipo de protocolo y formato utilizare.
+Tambien asi combinando el observer me permite el notificar a la cuenta que tipo de protocolo y formato utilizo asi como 
+tambien que Los datos de la cuenta origen y el destino.
